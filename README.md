@@ -1,7 +1,13 @@
-# Hey! Nice to see you
+# Hi there 👋
 
 Welcome to my page!
-I'm Frederic Lopes aka Michoo42, Security architect specialized on SSDLC into AppSec & DevSecOps. I like to share my knowledges and you can access all examples in my projects.
+I'm Frederic Lopes aka Michoo42, Security architect specialized on SSDLC into AppSec & DevSecOps. I like to share my knowledge and all my example projects.
+I'm on GitHub since 2013 with 214 public repositories.
+
+## Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederic-lopes-cyber/)
+
 
 ## Secret Detection :
 
@@ -32,6 +38,39 @@ I'm Frederic Lopes aka Michoo42, Security architect specialized on SSDLC into Ap
 * [My blog](https://blog.kubeek.com)
 * [My more serious projects](https://github.com/kubeek-sec/)
 
-## Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederic-lopes-cyber/)
+## Top Languages
+
+<ul>
+    <li>Python: 33.33%</li>
+    <li>Shell: 16.67%</li>
+    <li>HTML: 16.67%</li>
+    <li>C: 8.33%</li>
+    <li>C++: 8.33%</li>
+    <li>Lua: 8.33%</li>
+    <li>Rust: 8.33%</li>
+</ul>
+
+## Popular Repositories
+
+<ul>
+    <li>
+        <a href="https://github.com/michoo/pci">pci</a>
+            (<i>Python</i>)
+    </li>
+    <li>
+        <a href="https://github.com/michoo/spasm">spasm</a>
+            (<i>Rust</i>)
+    </li>
+    <li>
+        <a href="https://github.com/michoo/flanby">flanby</a>
+            (<i>Lua</i>)
+    </li>
+    <li>
+        <a href="https://github.com/michoo/linux-ibeacon">linux-ibeacon</a>
+            (<i>Python</i>)
+    </li>
+    <li>
+        <a href="https://github.com/michoo/planck-pi0">planck-pi0</a>
+    </li>
+</ul>
